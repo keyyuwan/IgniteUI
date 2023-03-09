@@ -1,0 +1,2 @@
+import{A as t}from"./index-ad387e18.js";import"./index-d61d9742.js";import"./iframe-898ac9d0.js";import"./index-cd165175.js";import"./jsx-runtime-d5483f43.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/keyyuwan.png",alt:"Key Yu Wan"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories-80fc83e2.js.map

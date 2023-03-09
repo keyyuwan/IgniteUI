@@ -1,0 +1,2 @@
+import{e as t,T as e,B as i}from"./index-ad387e18.js";import{j as o}from"./jsx-runtime-d5483f43.js";import"./index-d61d9742.js";import"./iframe-898ac9d0.js";import"./index-cd165175.js";const c={title:"Overlay/Tooltip",component:t,args:{children:o(e,{children:"Lorem ipsum"}),content:"21 de Maio - Disponível"},decorators:[r=>o(i,{css:{textAlign:"center"},children:r()})]},l={},d=["Primary"];export{l as Primary,d as __namedExportsOrder,c as default};
+//# sourceMappingURL=Tooltip.stories-6efa4877.js.map
